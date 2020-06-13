@@ -1,14 +1,13 @@
 //
-//  main.cpp
+//  FenwickTree.h
 //  DataStructureAlgorithmLibrary
 //
 //  Created by Shravan K on 13/06/20.
 //  Copyright © 2020 GoDimensions. All rights reserved.
 //
 
-#include <iostream>
+#ifndef FenwickTree_h
+#define FenwickTree_h
 
-int main(int argc, const char * argv[]) {
-    
-    return 0;
-}
+
+#endif /* FenwickTree_h */

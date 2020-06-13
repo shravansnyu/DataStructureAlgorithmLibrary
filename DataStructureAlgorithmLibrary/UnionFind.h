@@ -1,14 +1,13 @@
 //
-//  main.cpp
+//  UnionFind.h
 //  DataStructureAlgorithmLibrary
 //
 //  Created by Shravan K on 13/06/20.
 //  Copyright © 2020 GoDimensions. All rights reserved.
 //
 
-#include <iostream>
+#ifndef UnionFind_h
+#define UnionFind_h
 
-int main(int argc, const char * argv[]) {
-    
-    return 0;
-}
+
+#endif /* UnionFind_h */

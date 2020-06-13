@@ -1,14 +1,13 @@
 //
-//  main.cpp
+//  LinkedList.h
 //  DataStructureAlgorithmLibrary
 //
 //  Created by Shravan K on 13/06/20.
 //  Copyright © 2020 GoDimensions. All rights reserved.
 //
 
-#include <iostream>
+#ifndef LinkedList_h
+#define LinkedList_h
 
-int main(int argc, const char * argv[]) {
-    
-    return 0;
-}
+
+#endif /* LinkedList_h */

@@ -25,6 +25,16 @@
 /* Begin PBXFileReference section */
 		F42E6DD32495915D00C29C42 /* DataStructureAlgorithmLibrary */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataStructureAlgorithmLibrary; sourceTree = BUILT_PRODUCTS_DIR; };
 		F42E6DD62495915D00C29C42 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F42E6DDD249592B000C29C42 /* UnionFind.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UnionFind.h; sourceTree = "<group>"; };
+		F42E6DDE249592BC00C29C42 /* LinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LinkedList.h; sourceTree = "<group>"; };
+		F42E6DDF249592C800C29C42 /* CircularLinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CircularLinkedList.h; sourceTree = "<group>"; };
+		F42E6DE0249592D600C29C42 /* HashMap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HashMap.h; sourceTree = "<group>"; };
+		F42E6DE1249592DF00C29C42 /* BinaryTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinaryTree.h; sourceTree = "<group>"; };
+		F42E6DE2249592E900C29C42 /* BinarySearchTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinarySearchTree.h; sourceTree = "<group>"; };
+		F42E6DE3249592FB00C29C42 /* BalancedBinaryTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BalancedBinaryTree.h; sourceTree = "<group>"; };
+		F42E6DE42495930700C29C42 /* Graphs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Graphs.h; sourceTree = "<group>"; };
+		F42E6DE52495931600C29C42 /* FenwickTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FenwickTree.h; sourceTree = "<group>"; };
+		F42E6DE62495932100C29C42 /* SegmentTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SegmentTree.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,16 @@
 			isa = PBXGroup;
 			children = (
 				F42E6DD62495915D00C29C42 /* main.cpp */,
+				F42E6DDD249592B000C29C42 /* UnionFind.h */,
+				F42E6DDE249592BC00C29C42 /* LinkedList.h */,
+				F42E6DDF249592C800C29C42 /* CircularLinkedList.h */,
+				F42E6DE0249592D600C29C42 /* HashMap.h */,
+				F42E6DE1249592DF00C29C42 /* BinaryTree.h */,
+				F42E6DE2249592E900C29C42 /* BinarySearchTree.h */,
+				F42E6DE3249592FB00C29C42 /* BalancedBinaryTree.h */,
+				F42E6DE42495930700C29C42 /* Graphs.h */,
+				F42E6DE52495931600C29C42 /* FenwickTree.h */,
+				F42E6DE62495932100C29C42 /* SegmentTree.h */,
 			);
 			path = DataStructureAlgorithmLibrary;
 			sourceTree = "<group>";
