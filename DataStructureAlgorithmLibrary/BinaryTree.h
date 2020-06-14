@@ -8,6 +8,9 @@
 
 #ifndef BinaryTree_h
 #define BinaryTree_h
-
+template<class T>
+class BinaryTree{
+    
+};
 
 #endif /* BinaryTree_h */

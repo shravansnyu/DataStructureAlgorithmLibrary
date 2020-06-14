@@ -8,6 +8,9 @@
 
 #ifndef Graphs_h
 #define Graphs_h
-
+template<class T>
+class Graph{
+    
+};
 
 #endif /* Graphs_h */

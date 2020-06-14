@@ -8,6 +8,15 @@
 
 #ifndef BalancedBinaryTree_h
 #define BalancedBinaryTree_h
+template<class T>
+class RedBlackTree{
+    
+};
 
+
+template<class T>
+class AVLTree{
+    
+};
 
 #endif /* BalancedBinaryTree_h */

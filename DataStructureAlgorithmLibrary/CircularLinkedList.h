@@ -8,6 +8,10 @@
 
 #ifndef CircularLinkedList_h
 #define CircularLinkedList_h
-
+template<class T> 
+class CirculatLinkedList {
+    
+    
+};
 
 #endif /* CircularLinkedList_h */

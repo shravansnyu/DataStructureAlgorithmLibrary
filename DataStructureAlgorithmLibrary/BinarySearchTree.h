@@ -8,6 +8,9 @@
 
 #ifndef BinarySearchTree_h
 #define BinarySearchTree_h
-
+template<class T>
+class BinarySearchTree{
+    
+};
 
 #endif /* BinarySearchTree_h */

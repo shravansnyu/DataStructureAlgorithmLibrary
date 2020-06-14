@@ -12,6 +12,12 @@ template<class T>
 class Node {
     std::shared_ptr<T> next;
     T value;
+    
+public:
+    Node(T val){
+        this->value = val;
+        this->next = nullptr;
+    }
 };
 
 #endif /* Node_h */

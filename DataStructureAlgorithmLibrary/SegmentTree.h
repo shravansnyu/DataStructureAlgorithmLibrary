@@ -8,6 +8,9 @@
 
 #ifndef SegmentTree_h
 #define SegmentTree_h
-
+template<class T>
+class SegmentTree {
+    
+};
 
 #endif /* SegmentTree_h */

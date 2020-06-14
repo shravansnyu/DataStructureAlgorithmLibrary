@@ -8,6 +8,8 @@
 
 #ifndef FenwickTree_h
 #define FenwickTree_h
-
+class FenwickTree{
+    
+};
 
 #endif /* FenwickTree_h */

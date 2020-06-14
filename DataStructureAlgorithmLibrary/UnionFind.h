@@ -8,6 +8,7 @@
 
 #ifndef UnionFind_h
 #define UnionFind_h
+template<class T>
 class UnionFind {
     
 };
