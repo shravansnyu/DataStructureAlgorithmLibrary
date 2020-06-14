@@ -35,6 +35,7 @@
 		F42E6DE42495930700C29C42 /* Graphs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Graphs.h; sourceTree = "<group>"; };
 		F42E6DE52495931600C29C42 /* FenwickTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FenwickTree.h; sourceTree = "<group>"; };
 		F42E6DE62495932100C29C42 /* SegmentTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SegmentTree.h; sourceTree = "<group>"; };
+		F4ABFB042495F53F00F13314 /* Node.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 				F42E6DE42495930700C29C42 /* Graphs.h */,
 				F42E6DE52495931600C29C42 /* FenwickTree.h */,
 				F42E6DE62495932100C29C42 /* SegmentTree.h */,
+				F4ABFB042495F53F00F13314 /* Node.h */,
 			);
 			path = DataStructureAlgorithmLibrary;
 			sourceTree = "<group>";

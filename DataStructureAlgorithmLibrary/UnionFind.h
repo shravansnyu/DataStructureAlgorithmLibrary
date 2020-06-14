@@ -8,6 +8,8 @@
 
 #ifndef UnionFind_h
 #define UnionFind_h
-
+class UnionFind {
+    
+};
 
 #endif /* UnionFind_h */
